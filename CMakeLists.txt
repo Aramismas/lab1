@@ -15,11 +15,11 @@ ADD_EXECUTABLE(bigger_area_calculator
 )
 
 ADD_EXECUTABLE(c-echo
-  main2.cpp
+ src/main2.cpp
 ) 
 
 ADD_EXECUTABLE(test
-  test.cpp
+  src/test.cpp
 )
 
 TARGET_LINK_LIBRARIES(test gtest)
