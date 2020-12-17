@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Part 1: Intro to Software Construction Tooling
 
 > Author(s): Andrew Lvovsky ([@borninla](https://github.com/borninla)) and Brian Crites ([@brrcrites](https://github.com/brrcrites))
@@ -737,7 +736,3 @@ This new test makes two valuable additions to our system. The first is if anothe
 ## Submission
 
 Create three test cases in addition to the two we've already created, and commit it all to your repository as your submission.
-=======
-# lab1
-CS100 lab1
->>>>>>> main
